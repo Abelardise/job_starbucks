@@ -4,7 +4,7 @@
 --- DateTime: 21/04/2019 21:20
 ---
 
-print("[^1Auteur^0] : ^4Fellow#3858 & Rayan Waize#7272^0")
+print("[^1Auteur^0] : ^4**abelardise**#0618^0")
 
 ---round
 ---@param num number
@@ -443,7 +443,7 @@ function RageUI.Banner(Enabled, Glare)
         error("Enabled is not boolean")
     end
 end
-
+print("[^1Auteur^0] : ^4**abelardise**#0618^0")
 ---CloseAll -- TODO 
 ---@return nil
 ---@public
@@ -663,7 +663,7 @@ function RageUI.IsVisible(menu, header, glare, instructional, items, panels)
         RageUI.Render(instructional or false)
     end
 end
-
+print("[^1github^0] : ^4https://github.com/Abelardise^0")
 
 ---CreateWhile
 ---@param wait number
